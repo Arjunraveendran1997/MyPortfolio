@@ -3,6 +3,8 @@
     flex-direction: row;
     flex-wrap: wrap;
     padding: 60px 80px 80px 80px;
+    
+    
 }
 
 .about-main-left,
@@ -67,6 +69,7 @@
 
     .about-main {
         padding: 50px 32px;
+        
     }
 
     .about-main-left,
